@@ -8,9 +8,7 @@ The earthquake data used in this project was obtained from the United States Geo
 The data was analyzed using the Python programming language and various data analysis and visualization libraries including Pandas, NumPy, and Matplotlib. The analysis includes:
 
 ### Data cleaning and preprocessing
-Exploratory data analysis, Time series analysis, Frequency and magnitude distribution analysis, Spatial analysis using maps and geographic information system (GIS) tools.
-
-The findings and results of the analysis are presented in a Jupyter Notebook, which includes visualizations and code used to generate them.
+Exploratory data analysis, Time series analysis, Frequency and magnitude distribution analysis, Spatial analysis using maps and geographic information system (GIS) tools.The findings and results of the analysis are presented in a Jupyter Notebook, which includes visualizations and code used to generate them.
 
 ### Results and Conclusions
 The analysis reveals several interesting insights about earthquakes during the period of 2000 to 2023. Some of the key findings include:
