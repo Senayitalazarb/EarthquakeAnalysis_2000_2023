@@ -12,7 +12,7 @@ The data was analyzed using the Python programming language and various data ana
 
 ### Data cleaning and preprocessing
 --------
-The analysis of the data entailed performing Exploratory data analysis, time series analysis, examining frequency and magnitude distribution, and utilizing maps and geographic information system (GIS) tools for spatial analysis.The results and insights gleaned from the analysis are compiled in Jupyter Notebook, which comprises both code and visualizations.
+The analysis of the data entailed performing Exploratory data analysis, time series analysis, examining frequency and magnitude distribution, and utilizing maps and geographic information system (GIS) tools for spatial analysis.The results and insights gleaned from the analysis are compiled in [Jupyter Notebook](https://github.com/Senayitalazarb/EarthquakeAnalysis_2000_2023/blob/main/Turkey%20earthquake.ipynb), which comprises both code and visualizations.
 
 ### Results and Conclusions
 --------
