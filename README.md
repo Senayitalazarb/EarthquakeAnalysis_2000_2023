@@ -1,4 +1,5 @@
 ## Earthquake Project: 2000 - 2023
+
 The aim of this project is to examine seismic activity on a global scale between 2000 and 2023. The focus is on analyzing the occurrence, intensity, and geographical distribution of earthquakes within this timeframe in order to obtain valuable insights.
 
 ### Data Sources
@@ -19,14 +20,12 @@ The total count of earthquakes increased over time, with a peak in 2022 and a su
 ### Requirements
 To run the code and reproduce the analysis, the following software and packages are required:
 
-
 -Python 3.x
 -Jupyter Notebook
 -Pandas
 -NumPy
 -Matplotlib
 -Basemap
-
 
 
 ## Authors
