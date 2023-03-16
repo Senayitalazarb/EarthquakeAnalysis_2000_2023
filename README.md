@@ -17,11 +17,7 @@ The findings and results of the analysis are presented in a Jupyter Notebook, wh
 ### Results and Conclusions
 The analysis reveals several interesting insights about earthquakes during the period of 2000 to 2023. Some of the key findings include:
 
--The total number of earthquakes increased over the years, with a peak in 2022 and a decline in recent year
--Most earthquakes occurred at shallow depths of 0 - 100 km, but some were as deep as 700 km.
--The highest magnitude earthquake during this period was 8.6, which occurred in 2012 in west coast of northern Sumatra.
--The most seismically active regions were the Pacific Ring of Fire, followed by the Mediterranean and Middle East.
--Overall, the analysis provides valuable insights into the patterns and characteristics of earthquakes during the period of 2000 to 2023, which can be useful for future research and disaster preparedness efforts.
+The total number of earthquakes increased over the years, with a peak in 2022 and a decline in recent year. Most earthquakes occurred at shallow depths of 0 - 100 km, but some were as deep as 700 km. The highest magnitude earthquake during this period was 8.6, which occurred in 2012 in west coast of northern Sumatra. The most seismically active regions were the Pacific Ring of Fire, followed by the Mediterranean and Middle East. Overall, the analysis provides valuable insights into the patterns and characteristics of earthquakes during the period of 2000 to 2023, which can be useful for future research and disaster preparedness efforts.
 
 
 ### Requirements
