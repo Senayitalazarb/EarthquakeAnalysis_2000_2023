@@ -1,24 +1,24 @@
 ## Earthquake Project: 2000 - 2023
-This project analyzes worldwide earthquake data from the period of 2000 to 2023. The goal is to gain insights into the frequency, magnitude, and location of earthquakes during this period.
+
+The aim of this project is to examine seismic activity on a global scale between 2000 and 2023. The focus is on analyzing the occurrence, intensity, and geographical distribution of earthquakes within this timeframe in order to obtain valuable insights.
 
 ### Data Sources
-The earthquake data used in this project was obtained from the United States Geological Survey (USGS). The data includes information about the date, time, location, magnitude, depth, and other characteristics of earthquakes that occurred during the specified time period.
+The data utilized in this project was obtained from the United States Geological Survey ([USGS](https://earthquake.usgs.gov/data/comcat/)), which contains a comprehensive information about earthquakes that took place during the given timeframe, including details such as the date, time, location, magnitude, depth, and other pertinent characteristics.
 
 ### Data Analysis
-The data was analyzed using the Python programming language and various data analysis and visualization libraries including Pandas, NumPy, and Matplotlib. The analysis includes:
+The data was analyzed using the Python programming language and various data analysis and visualization libraries such as Pandas, NumPy, and Matplotlib. The analysis includes:
 
 ### Data cleaning and preprocessing
-Exploratory data analysis, Time series analysis, Frequency and magnitude distribution analysis, Spatial analysis using maps and geographic information system (GIS) tools.The findings and results of the analysis are presented in a Jupyter Notebook, which includes visualizations and code used to generate them.
+The analysis of the data entailed performing Exploratory data analysis, time series analysis, examining frequency and magnitude distribution, and utilizing maps and geographic information system (GIS) tools for spatial analysis.The results and insights gleaned from the analysis are compiled in Jupyter Notebook, which comprises both code and visualizations.
 
 ### Results and Conclusions
-The analysis reveals several interesting insights about earthquakes during the period of 2000 to 2023. Some of the key findings include:
+The analysis of the seismic data uncovered several interesting insights concerning earthquakes between 2000 to 2023. A few of noteworthy discoveries are as follows:
 
-The total number of earthquakes increased over the years, with a peak in 2022 and a decline in recent year. Most earthquakes occurred at shallow depths of 0 - 100 km, but some were as deep as 700 km. The highest magnitude earthquake during this period was 8.6, which occurred in 2012 in west coast of northern Sumatra. The most seismically active regions were the Pacific Ring of Fire, followed by the Mediterranean and Middle East. Overall, the analysis provides valuable insights into the patterns and characteristics of earthquakes during the period of 2000 to 2023, which can be useful for future research and disaster preparedness efforts.
+The total count of earthquakes increased over time, with a peak in 2022 and a subsequent decline in recent year. A majority of the earthquakes occurred at shallow depths of 0 - 100 km, although a few were recorded as deep as 700 km. The earthquake with the highest magnitude, measuring a magnitude of 8.6, was reported in 2012 off the west coast of northern Sumatra. The Pacific Ring of Fire emerged as the most seismically active regions, followed by the Mediterranean and Middle East. All in all, the analysis furnished valuable insights regarding the patterns and characteristics of earthquakes from 2000 to 2023, which can be beneficial for future research and disaster preparedness efforts.
 
 
 ### Requirements
 To run the code and reproduce the analysis, the following software and packages are required:
-
 
 -Python 3.x
 -Jupyter Notebook
@@ -28,6 +28,5 @@ To run the code and reproduce the analysis, the following software and packages 
 -Basemap
 
 
-
 ## Authors
-This project was created by Senayit Berhane and Ghezae Fisseha. For questions or feedback, please contact Senayita.hac@gmail.com
+This project was created by Senayit Berhane and Ghezae Fisseha. For questions or feedback, please contact senayita.hac@gmail.com
