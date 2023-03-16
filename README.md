@@ -29,7 +29,7 @@ To run the code and reproduce the analysis, the following software and packages 
 - [Pandas](http://pandas.pydata.org/) > 1.4.2
 - [NumPy](http://www.numpy.org/)
 - [Matplotlib](http://matplotlib.org/)
-- [Basemap] (https://matplotlib.org/basemap/)
+- [Basemap](https://matplotlib.org/basemap/)
 
 
 ## Authors
