@@ -25,11 +25,11 @@ The total count of earthquakes increased over time, with a peak in 2022 and a su
 --------
 To run the code and reproduce the analysis, the following software and packages are required:
 
-        - [Python 3.x](https://www.python.org/)
-        - [Pandas](http://pandas.pydata.org/) > 1.4.2
-        - [NumPy](http://www.numpy.org/)
-        - [Matplotlib](http://matplotlib.org/)
-        - [Basemap] (https://matplotlib.org/basemap/)
+- [Python 3.x](https://www.python.org/)
+- [Pandas](http://pandas.pydata.org/) > 1.4.2
+- [NumPy](http://www.numpy.org/)
+- [Matplotlib](http://matplotlib.org/)
+- [Basemap] (https://matplotlib.org/basemap/)
 
 
 ## Authors
