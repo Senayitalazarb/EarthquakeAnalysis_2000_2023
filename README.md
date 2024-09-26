@@ -32,5 +32,5 @@ To run the code and reproduce the analysis, the following software and packages 
 - [Basemap](https://matplotlib.org/basemap/)
 
 
-## Authors
+## Author
 This project was created by Senayit Berhane. For questions or feedback, please contact senayita.hac@gmail.com
